@@ -1,0 +1,13 @@
+"C:\Users\Radu\Desktop\C C++\CLion 2024.3.5\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/Radu/Desktop/C C++/CLion 2024.3.5/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Radu's Stuff\HW\Faculta\ANUL 2\Sem2\OS\Mil1" -B "C:\Radu's Stuff\HW\Faculta\ANUL 2\Sem2\OS\Mil1\cmake-build-debug"
+-- Configuring done (0.2s)
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    main.c
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: untitled
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
